@@ -20,6 +20,5 @@ public class GrafoListaController {
 
 
         return g.toString();
-        }
     }
 }
